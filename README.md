@@ -1,3 +1,4 @@
 # CalamariHoops
 
-On-going project
+Complete NBA player statistics (Basic + Advanced) data pipeline
+
